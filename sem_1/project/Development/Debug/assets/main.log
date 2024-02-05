@@ -1,0 +1,4 @@
+﻿  Game.cpp
+C:\Users\User\source\repos\Project\main\Planet.h(42,28): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project\main\Planet.h(42,25): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  main.vcxproj -> C:\Users\User\source\repos\Project\x64\Debug\Project.exe

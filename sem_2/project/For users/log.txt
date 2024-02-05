@@ -1,0 +1,16 @@
+[INFO] Map created Fri Jun 30 21:16:24 2023
+
+[INFO] Map loaded Fri Jun 30 21:16:24 2023
+
+[INFO] Player car created Fri Jun 30 21:16:24 2023
+
+[INFO] Civilian cars created Fri Jun 30 21:16:24 2023
+
+[INFO] Player car loaded Fri Jun 30 21:16:24 2023
+
+[INFO] Civilian cars loaded Fri Jun 30 21:16:25 2023
+
+[INFO] Player car deleted Fri Jun 30 21:16:52 2023
+
+[INFO] Game closed Fri Jun 30 21:16:54 2023
+
